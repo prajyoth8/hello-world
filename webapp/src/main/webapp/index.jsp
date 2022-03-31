@@ -3,8 +3,9 @@
     <h1>Sign up</h1>
     
     <input type="text" name="username" placeholder="Username" />
-    <br>
+    
     <input type="text" name="email" placeholder="E-mail" />
+	<br>
     <input type="password" name="password" placeholder="Password" />
     <input type="password" name="password2" placeholder="Retype password" />
     
