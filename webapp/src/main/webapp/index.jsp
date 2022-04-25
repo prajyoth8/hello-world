@@ -1,6 +1,6 @@
 <div id="login-box">
   <div class="left">
-    <h1>New Registration</h1>
+    <h1>Sign Up</h1>
     
     <input type="text" name="username" placeholder="Username" />
     
