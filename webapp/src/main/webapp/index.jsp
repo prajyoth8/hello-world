@@ -10,7 +10,7 @@
     <input type="password" name="password2" placeholder="Retype password" />
     
     <input type="submit" name="signup_submit" value="Sign me up" /><br>
-	<input type="phone" name="phone number" placeholder="Phone Number" />
+	<input type="phone" name="phone" placeholder="Phone Number" />
   </div>
   <div class="or">OR</div>
   <div class="right">
